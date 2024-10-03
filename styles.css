@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #333;
+}
+
+h1, h2 {
+    font-family: 'Georgia', serif;
+    color: #5050b6;
+}
+
+header {
+    text-align: center;
+    background-color: #ecf0f1;
+    padding: 20px;
+}
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul li {
+    background-color: #e0e0e0;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+a {
+    color: #3498db;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #b1bcc4;
+}
+/* Estilos para la imagen */
+.profile-pic {
+    width: 50px; /* Ajusta el tamaño de la imagen */
+    height: 50px;
+    border-radius: 50%; /* Hace la imagen circular */
+    margin-bottom: 20px; /* Añade espacio entre la imagen y el nombre */
+}
